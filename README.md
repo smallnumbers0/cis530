@@ -9,7 +9,7 @@ Chapter 2, Regular Expressions, Text Normalization, Edit Distance
 
 ## Week2
 Chapter 2 - Regular Expressions, Text Normalization, Edit Distance 
-Chapter 5 - Logistic RegressionLinks to an external site.
+Chapter 5 - Logistic Regression
 
 ## Week3
 Chapter 3 - N-Gram Language Models
@@ -19,3 +19,6 @@ Chapter 6 - Vector Semantics and Embeddings
 
 ## Week 5
 Chapter 6 - Vector Semantics and Embeddings
+
+## Week 6
+Chapter 7 - Neural Networks and Neural Language Models
