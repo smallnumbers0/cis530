@@ -1,4 +1,4 @@
-# cis530
+# cis530 - Natural Language Processing
 
 # Book: 
 Jurafsky and Martin, Speech and Language Processing (3rd ed. draft) https://web.stanford.edu/~jurafsky/slp3/
