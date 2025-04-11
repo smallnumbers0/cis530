@@ -22,3 +22,12 @@ Chapter 6 - Vector Semantics and Embeddings
 
 ## Week 6
 Chapter 7 - Neural Networks and Neural Language Models
+
+## Week 7
+Chapter 8 - RNNs and LSTMs
+
+## Week 8
+Chapter 10 - Large Language Models
+
+## Week 9 
+Chapter 11 - Masked Language Models
